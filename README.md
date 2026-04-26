@@ -1,77 +1,76 @@
 # 📋 Clipboard History Manager
-## Overview
-**"Never lose what you copied"**
 
-Clipboard History Manager is a lightweight Android utility app  
-that automatically saves everything you copy and lets you retrieve it instantly.
+## 概要
 
-All data is stored **locally on your device** — no internet connection, no cloud, no tracking.
+**「コピーしたものを、もう失わない」**
 
----
-
-## ✨ Features
-
-- **Auto-save** — Automatically records text as soon as you copy it
-- **One-tap copy** — Tap any item to instantly copy it again
-- **Pin important items** — Keep frequently used clips pinned at the top
-- **Search** — Quickly find past clips by keyword
-- **Long-press to delete** — Remove individual items with a long press
-- **Clear all** — Delete all unpinned history in one tap
-- **100% offline** — Works entirely on-device, no data ever leaves your phone
+Clipboard History Manager は、コピーしたテキストを自動で保存し、すぐに呼び出せる軽量なAndroidユーティリティアプリです。  
+すべてのデータは**端末内にのみ保存**されます — インターネット接続不要、クラウド不使用、トラッキングなし。
 
 ---
 
-## 📱 Requirements
+## ✨ 機能
 
-- Android 8.0 (Oreo) or higher
-
----
-
-## 🚀 Installation
-
-1. Download the latest APK from [Releases](https://github.com/areteruhirodesu/clipboard/releases)
-2. Enable **Install unknown apps** in your device settings
-3. Install and launch the app
+- **自動保存** — コピーした瞬間に自動で記録
+- **ワンタップコピー** — 任意の履歴をタップしてすぐ再コピー
+- **ピン留め** — よく使うクリップをトップに固定
+- **検索** — キーワードで過去の履歴をすぐに検索
+- **長押しで削除** — 個別の履歴を長押しで削除
+- **一括削除** — ピン留め以外の履歴をワンタップで全削除
+- **100% オフライン** — すべて端末内で完結、データが外部に出ることは一切ありません
 
 ---
 
-## 💰 Pricing
+## 📱 動作要件
 
-1  year 2600 yen
-1 month 250 yen
-| Plan | Features |
-|------|----------|
-| Free | Core clipboard history, search, pin |
-| Pro | Background monitoring, priority support, future features |
-
-Purchase the Pro version at [Polar](https://polar.sh).
+- Android 8.0（Oreo）以上
 
 ---
 
-## 💖 Support Development
+## 🚀 インストール方法
 
-If you find this app useful, consider supporting continued development:
+1. [Releases](https://github.com/areteruhirodesu/clipboard/releases) から最新のAPKをダウンロード
+2. 端末の設定で **「提供元不明のアプリ」のインストールを許可**
+3. APKをインストールしてアプリを起動
+
+---
+
+## 💰 料金プラン
+
+| プラン | 料金 | 機能 |
+|--------|------|------|
+| 無料 | 無料 | クリップボード履歴・検索・ピン留め |
+| Pro（月額） | 250円 / 月 | バックグラウンド監視・優先サポート・今後の新機能 |
+| Pro（年額） | 2,600円 / 年 | 同上（月額より約13%お得） |
+
+Pro版は [Polar](https://polar.sh) にてご購入いただけます。
+
+---
+
+## 💖 開発支援
+
+このアプリが役に立ったと感じていただけたら、開発継続のご支援をお願いします：
 
 - PayPay: https://qr.paypay.ne.jp/p2p01_oDVfRTzTKrCLCXmn
 - GitHub Sponsors: https://github.com/sponsors/areteruhiro
 
 ---
 
-## 🐞 Bug Reports
+## 🐞 バグ報告
 
-Please report bugs or feature requests via [GitHub Issues](https://github.com/areteruhirodesu/clipboard/issues).
-
----
-
-## ⚠️ Privacy & Disclaimer
-
-- This app stores clipboard data **locally on your device only**
-- No data is transmitted to any server or third party
-- The app does not access the internet
-- Use at your own discretion
+不具合や機能リクエストは [GitHub Issues](https://github.com/areteruhirodesu/clipboard/issues) よりご報告ください。
 
 ---
 
-## 📄 License
+## ⚠️ プライバシーと免責事項
 
-© 2026 areteruhiro — See [LICENSE](./LICENSE) for details.
+- クリップボードのデータは**端末内にのみ保存**されます
+- データが外部のサーバーや第三者に送信されることは一切ありません
+- このアプリはインターネットに接続しません
+- ご利用は自己責任でお願いします
+
+---
+
+## 📄 ライセンス
+
+© 2026 areteruhiro — 詳細は [LICENSE](./LICENSE) をご覧ください。
