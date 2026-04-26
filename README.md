@@ -38,7 +38,8 @@ Clipboard History Manager は、コピーしたテキストを自動で保存し
 - **長押しで削除** — 個別の履歴を長押しで削除
 - **一括削除** — ピン留め以外の履歴をワンタップで全削除
 - **100% オフライン** — すべて端末内で完結、データが外部に出ることは一切ありません
-https://media.discordapp.net/attachments/1357007437638668410/1497953043797381200/Screenshot_2026-04-26-22-29-15-857_com.areteruhiro.clip.jpg?ex=69ef64fc&is=69ee137c&hm=6100a00f6c568e41607c0e0cc492c22befb952440a92eebb4b02c897c68fe80e&=&format=webp&width=432&height=960
+<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/d710a5ea-7f13-405f-9187-a321608b7c10" />
+
 ---
 
 ## 📱 動作要件
