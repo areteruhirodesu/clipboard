@@ -37,6 +37,8 @@ All data is stored **locally on your device** — no internet connection, no clo
 
 ## 💰 Pricing
 
+1  year 2600 yen
+1 month 250 yen
 | Plan | Features |
 |------|----------|
 | Free | Core clipboard history, search, pin |
