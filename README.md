@@ -1,5 +1,4 @@
 # 📋 Clipboard History Manager
-
 ## Overview
 **"Never lose what you copied"**
 
