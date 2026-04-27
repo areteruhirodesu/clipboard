@@ -53,7 +53,6 @@ Pro licenses are available via [Polar](https://polar.sh).
 
 If you find this app useful, please consider supporting continued development:
 
-- **PayPay**: [https://qr.paypay.ne.jp/p2p01_oDVfRTzTKrCLCXmn](https://qr.paypay.ne.jp/p2p01_oDVfRTzTKrCLCXmn)
 - **GitHub Sponsors**: [https://github.com/sponsors/areteruhiro](https://github.com/sponsors/areteruhiro)
 
 ---
@@ -152,7 +151,6 @@ Pro版は [Polar](https://polar.sh) にてご購入いただけます。
 
 このアプリが役に立ったと感じていただけたら、開発継続のご支援をお願いします：
 
-- PayPay: https://qr.paypay.ne.jp/p2p01_oDVfRTzTKrCLCXmn
 - GitHub Sponsors: https://github.com/sponsors/areteruhiro
 
 ---
