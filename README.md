@@ -150,3 +150,5 @@ Pro版は [Polar](https://polar.sh) にてご購入いただけます。
 ## 📄 ライセンス
 
 © 2026 areteruhiro — 詳細は [LICENSE](./LICENSE) をご覧ください。
+
+https://github.com/areteruhirodesu/clipboard/blob/main/%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E8%A8%98.md
