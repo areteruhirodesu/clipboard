@@ -1,4 +1,4 @@
-# 📋 Clipboard History Manager
+# 📋 Clipboard History Manager- LEIN
 
 ## 概要
 
